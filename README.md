@@ -15,17 +15,17 @@ Together, they empower programmers to develop efficient and scalable solutions t
 
 - Linked Lists: Singly Linked Lists, Doubly Linked Lists, Circular Linked Lists 🗹
 
-- Stacks: Array-based implementation, Linked List-based implementation
+- Stacks: Array-based implementation, Linked List-based implementation 🗹
 
-- Queues: Array-based implementation, Linked List-based implementation, Circular Queue, Priority Queue
+- Queues: Array-based implementation, Linked List-based implementation, Circular Queue, Priority Queue 🗹
 
-- Trees: Binary Trees, Binary Search Trees (BST), AVL Trees, Red-Black Trees, B-Trees
+- Trees: Binary Trees, Binary Search Trees (BST), AVL Trees, Red-Black Trees, B-Trees 🗹 (Missing methods)
 
-- Heaps: Min Heap, Max Heap, Priority Queue using Heap
+- Heaps: Min Heap, Max Heap, Priority Queue using Heap 🗹
 
-- Hash Tables: Hash Functions, Collision Resolution Techniques (Separate Chaining, Open Addressing)
+- Hash Tables: Hash Functions, Collision Resolution Techniques (Separate Chaining, Open Addressing) 🗹
 
-- Graphs: Graph Representation (Adjacency Matrix, Adjacency List), Graph Traversal (DFS, BFS), Shortest Path Algorithms (Dijkstra's, Bellman-Ford), Minimum Spanning Tree (Prim's, Kruskal's)
+- Graphs: Graph Representation (Adjacency Matrix, Adjacency List), Graph Traversal (DFS, BFS), Shortest Path Algorithms (Dijkstra's, Bellman-Ford), Minimum Spanning Tree (Prim's, Kruskal's) 🗹 (Missing traversal and algorithms)
 
 
 ### Algorithms:
